@@ -1,6 +1,6 @@
 import { createClient } from '@supabase/supabase-js';
 
-const SUPABASE_URL = 'https://qlsswjzhqdalluvtoogu.supabase.co';
-const SUPABASE_ANON_KEY = 'sb_publishable_rmDFP4XmOB0kysFdTRBL6Q_MZnQ_pK4';
+const SUPABASE_URL = 'https://link_API_masing_masing.supabase.co';
+const SUPABASE_ANON_KEY = 'sb_publishable_kode_API_masing_masing';
 
 export const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
